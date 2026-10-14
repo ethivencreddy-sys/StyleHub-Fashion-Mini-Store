@@ -206,7 +206,7 @@ Developed as a full-stack learning project using FastAPI and React.
 The application supports administrator access for managing products.
 
 - **Admin Email:**ethivencreddy@gmail.com
-- **Admin Password:** *sunny*E12
+- **Admin Password:**  *sunny*E12
 ### Admin Capabilities
 - Create products
 - Update product details
